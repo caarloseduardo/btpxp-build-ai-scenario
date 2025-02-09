@@ -1,0 +1,10 @@
+#clientSecret=<< Existing password/certificate removed on export >>
+#
+#Sun Feb 09 15:57:03 UTC 2025
+tokenServiceURLType=Dedicated
+Type=HTTP
+Authentication=OAuth2ClientCredentials
+tokenServiceURL=https\://dev-ai-l2d.authentication.us10.hana.ondemand.com/oauth/token
+ProxyType=Internet
+URL=https\://api.ai.prod.us-east-1.aws.ml.hana.ondemand.com
+Name=aicore-destination
