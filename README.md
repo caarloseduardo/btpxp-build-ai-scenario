@@ -16,3 +16,4 @@ Entre em contato direto com o GenAI Hub na infraestrutura do SAP AI Core e aprov
 - [ML Operations (Configurações e Deploys)](exercises/ex3/README.md)
 - [Prompt Editor](exercises/ex4/README.md)
 - [Desafio Pro-code](exercises/challenge/README.md)
+- [Link BTP SAP](https://emea.cockpit.btp.cloud.sap/cockpit/?idp=ahig3ghv4.accounts.ondemand.com#/globalaccount/CA50235469TID000000000741455808/subaccount/c020f46b-d023-4745-8a61-aeea0cffb192/service-instances)
